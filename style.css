@@ -1,0 +1,123 @@
+body {
+
+    font-family: 'Montserrat', sans-serif;
+    margin: 0%;
+}
+
+.order-food {
+    text-decoration: none;
+    padding: 15px 30px;
+    background-image: linear-gradient(tomato, orange);
+    font-weight: 700;
+    color: white;
+    border-radius: 50px;
+
+}
+
+h1 {
+
+
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+
+.flex-decoration {
+    display: flex;
+    margin-top: 50px;
+
+
+
+
+
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.half-width2 img {
+    width: 100%;
+
+}
+
+h3 {
+    font-weight: 700;
+}
+
+.About-me {
+    background-image: url("img/7.png");
+    background-repeat: no-repeat;
+
+
+}
+
+.half-width2 {
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 5%
+}
+
+.experiment-item {
+    width: 25%;
+    margin-left: 4%;
+    margin-right: 0;
+    padding-left: 1.5%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    padding-right: 1.5%;
+
+    border-radius: 25px;
+
+    box-shadow: 5px 5px 20px rgba(205, 203, 203, 0.725);
+}
+
+.experiment-item img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(9, 8, 20);
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
+
+.social-item {
+    width: 89%;
+    margin-top: 100px;
+    margin-bottom: 90px;
+    margin-left: 4%;
+    margin-right: 0;
+    padding-left: 1.5%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    padding-right: 1.5%;
+
+    border-radius: 25px;
+
+    box-shadow: 5px 5px 20px rgba(205, 203, 203, 0.725);
+}
+
+.item-flex {
+    display: flex;
+
+}
+
+.flex-item {
+    margin-left: 15%;
+    margin-right: 3%;
+}
