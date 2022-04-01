@@ -22,6 +22,8 @@ h1 {
 
 h2 {
     font-size: 30px;
+
+
 }
 
 
@@ -118,6 +120,12 @@ footer {
 }
 
 .flex-item {
+
     margin-left: 15%;
     margin-right: 3%;
+}
+
+#food-net {
+    font-size: 22px;
+
 }
