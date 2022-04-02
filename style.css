@@ -61,8 +61,14 @@ h3 {
 .About-me {
     background-image: url("img/7.png");
     background-repeat: no-repeat;
+    background-size: cover;
 
 
+
+}
+
+.color-white {
+    color: white;
 }
 
 .half-width2 {
@@ -125,7 +131,37 @@ footer {
     margin-right: 3%;
 }
 
+.white-color {
+    color: white;
+}
+
+.img-background {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    -webkit-filter: blur(5px);
+    /* Safari 6.0 - 9.0 */
+    filter: blur(5px);
+}
+
+
 #food-net {
     font-size: 22px;
+
+}
+
+.background {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    -webkit-filter: blur(1px);
+    /* Safari 6.0 - 9.0 */
+    filter: blur(2px);
 
 }
